@@ -1,3 +1,4 @@
+Thanos provides long-term data storage capability and High availability to our Prometheus. 
  
 # Thanos Setup
 
